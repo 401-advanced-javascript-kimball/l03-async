@@ -5,7 +5,7 @@
 ### Author: Jonathan Kimball
 
 ### Links and Resources
-<!-- * [ ] - [submission PR](http://xyz.com) -->
+* [ ] - [submission PR](https://github.com/401-advanced-javascript-kimball/l03-async/pull/3)
 * [travis](https://travis-ci.com/401-advanced-javascript-kimball/l03-async)
 <!-- * [back-end](http://xyz.com) (when applicable) -->
 * [front-end](https://jk-401js-lab03.herokuapp.com/)
