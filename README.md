@@ -12,7 +12,7 @@
 
 #### Documentation
 <!-- * [api docs](http://xyz.com) (API servers) -->
-<!-- * [jsdoc](http://xyz.com) (Server assignments) -->
+* [jsdoc](https://401-advanced-javascript-kimball.github.io/l03-async/) (Server assignments)
 <!-- * [styleguide](http://xyz.com) (React assignments) -->
 
 ### Modules
